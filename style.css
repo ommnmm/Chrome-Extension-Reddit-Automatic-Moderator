@@ -1,0 +1,145 @@
+body {
+  margin: 0px 0px 0px 0px !important;
+  background-color: paleturquoise ;
+
+}
+
+.boxed {
+
+    border-radius: 25px;
+    background: lightcyan;
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    vertical-align: middle;
+    margin-left: 50px;
+    margin-top: 1px;
+}
+
+
+.boxed2 {
+
+    border-radius: 25px;
+    background: lightcyan;
+    padding: 1px;
+    width: 250px;
+    height: 100px;
+
+    margin-left: 30px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+
+}
+
+
+
+.boxed3 {
+
+    border-radius: 25px;
+    background: paleturquoise;
+    padding: 1px;
+    width: 230px;
+    height: 45px;
+    margin-top: 1px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+
+
+.vertical-center {
+  margin: 0;
+  position: relative;
+  top: 30%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+
+h1 {
+  color: darksalmon ;
+  font-family: verdana;
+  font-size: 100%;
+}
+
+
+.event_container {
+  height: 50px;
+  width: 300px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h4 {  
+  padding: 16px 16px 16px 16px;
+  font-size: 14px;
+  color: darksalmon;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h3 {
+  padding: 16px 16px 16px 16px;
+  font-size: 18px;
+  color: lightskyblue;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h2 {
+  padding: 16px 16px 16px 16px;
+  font-size: 30px;
+  color: darkblue;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+
+
+.comments {
+  list-style: none;
+  padding: 0px 0px 0px 0px;
+}
+
+.comments a1 {
+  background-color: lightseagreen;
+  color: hsl(0, 0%, 20%);
+  display: block;
+  padding: 8px 20px 8px 20px;
+  text-decoration: none;
+  border-bottom: 2px solid lightgrey;
+}
+
+.comments li {
+  /*font-size: 14px;*/
+  background-color: goldenrod;
+  color: hsl(0, 0%, 20%);
+  display: block;
+  padding: 8px 20px 8px 20px;
+  text-decoration: none;
+  border-bottom: 2px solid lightgrey;
+}
+
+.comments ul {
+  /*font-size: 14px;*/
+  background-color: darksalmon;
+  color: hsl(0, 0%, 20%);
+  display: block;
+  padding: 8px 20px 8px 20px;
+  text-decoration: none;
+  border-bottom: 2px solid lightgrey;
+*/}
+
+
+
+.author {
+  font-size: 12px;
+  font-style: bold;
+  background-color: hsl(0, 0%, 100%, 0);
+  color: hsl(0, 0%, 40%);
+  display: block;
+  padding: 0px 8px 4px 0px;
+  text-decoration: none;
+}
