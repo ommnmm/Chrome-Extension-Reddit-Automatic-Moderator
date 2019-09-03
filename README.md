@@ -1,1 +1,1 @@
-# chrome_extension_reddit_automod
+A Chrome Extension application that auto-moderate user comments on Reddit r/IAMA
