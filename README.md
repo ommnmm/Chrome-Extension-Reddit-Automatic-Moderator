@@ -1,7 +1,10 @@
 This is a Google Chrome Extension application that auto-moderate user comments on Reddit r/IAMA.
 
-The application works with Reddit r/IAMA web address: https://www.reddit.com/r/IAmA/.
+Chrome Extension demo video, featuring a fight between two Redditors:https://www.youtube.com/watch?v=sb43IJn9Lfw
 
-Downloadable link of the Chrome Extension:
+
+The application works on Reddit r/IAMA: https://www.reddit.com/r/IAmA/.
+
+Download the Chrome Extension here:
 https://chrome.google.com/webstore/detail/auto-mod/njiiebmbjocbjjpmmecnjaocndibndab
 
