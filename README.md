@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=sb43IJn9Lfw
 
 
 The application works on Reddit r/IAMA:<br/>
-https://www.reddit.com/r/IAmA/.
+https://www.reddit.com/r/IAmA/
 
 Download the Chrome Extension here:<br/>
 https://chrome.google.com/webstore/detail/auto-mod/njiiebmbjocbjjpmmecnjaocndibndab
