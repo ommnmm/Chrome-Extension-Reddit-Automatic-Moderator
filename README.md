@@ -1,4 +1,5 @@
 This is a Google Chrome Extension application that auto-moderate user comments on Reddit r/IAMA.
+The application uses machine learning model trained with natural language processing.
 
 Reddit Automoderator demo video, featuring a fight between two Redditors:<br/>
 https://www.youtube.com/watch?v=sb43IJn9Lfw
